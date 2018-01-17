@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: kimgo589@gmail.com
 copyright_name: KimGonzales
 description: > # this means to ignore newlines until "baseurl:"
-  Web Development from a Newbie's Perspective
+  Newbie to Ruby, to Java and...more?
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  KimGonzales
