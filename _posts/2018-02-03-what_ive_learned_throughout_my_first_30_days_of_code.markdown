@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "What I've Learned Throughout my first 30 Days of Code:  "
+title:      "What I've Learned Throughout my first 30 Days of Code"
 date:       2018-02-03 21:02:22 -0500
 permalink:  what_ive_learned_throughout_my_first_30_days_of_code
 ---
@@ -18,7 +18,8 @@ Do you know those days I’m taking about?
 
 Those days that are spent on a lab or a lesson on a completely new concept. You hoped it would take 20 minutes to grasp; but then those 20  minutes turn into 40 minutes and those 40 minutes turn into 90 minutes and before you know it,  the sun is down, your dog is hangry and you forgot wtf the lesson was trying to teach in first place.
 
-**Take Breaks and Take them Often**.
+**Take Breaks and Take them Often.**
+
 It’s amazing what 20 minutes of fresh air can do for a busy brain.  Apps like [Be Focused](http://https://itunes.apple.com/us/app/be-focused-focus-timer-goal-tracker-for-work/id973134470?mt=12) which utilize the [Pomodoro timer technique](http://https://en.wikipedia.org/wiki/Pomodoro_Technique) have helped me maintain my focus while reminding me to step away from the computer after 40 - 45 minute study intervals. 20 minutes away from the computer while eating a snack, taking a walk, or having a short casual phone call with a friend has helped to ease any anxieties and help me get back to work with a fresh mind. 
 
 **Reiteration of Iteration **
