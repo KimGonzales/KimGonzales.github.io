@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Ruby Hashes CheatSheet!"
-date:       2018-02-27 18:56:17 +0000
+date:       2018-02-27 13:56:18 -0500
 permalink:  ruby_hashes_cheatsheet
 ---
 
@@ -24,7 +24,9 @@ my_dog = { :name => "Bowser", :breed => "Wheatador", :favorite_food => "garbage"
 
 The my_dog hash above is created using the literal constructor. Below we've made an empty hash using that same method. 
 
-```hash = {}```
+```
+hash = {}
+```
 
 The literal hash constructor wraps key/value pairs in curly brackets. Each key becomes associated to its value by using a hash-rocket =>. 
 
