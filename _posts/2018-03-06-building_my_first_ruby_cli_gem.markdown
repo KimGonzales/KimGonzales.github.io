@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Building My First Ruby CLI Gem"
-date:       2018-03-06 22:48:52 +0000
+date:       2018-03-06 17:48:52 -0500
 permalink:  building_my_first_ruby_cli_gem
 ---
 
@@ -59,7 +59,7 @@ For me, the main hardship of writing this gem was the scraping. There were defin
 
 Now, I am SO happy I didn't. If I did - if i just got that answer frrom someone else, it wouldn't have been such a great learning experience. Plus the feeling once I DID do it successfully was 100% worth it. 
 
-It took me close to 8 hours just to scrape the webpage correctly, but I completed Digital Remote Jobs over the weekend.
+It took me close to 8 hours just to scrape the webpage correctly, but I completed Digital Nomad Jobs over the weekend.
 
 
 #### Wrapping Up
