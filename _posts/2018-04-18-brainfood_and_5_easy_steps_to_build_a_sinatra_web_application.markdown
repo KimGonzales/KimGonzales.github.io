@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Boosting your Memory with Brainfood: My First Sinatra Web Application! "
+title:      "Boosting your Memory with Brainfood: My First Sinatra Web Application"
 date:       2018-04-18 17:19:51 -0400
 permalink:  brainfood_and_5_easy_steps_to_build_a_sinatra_web_application
 ---
