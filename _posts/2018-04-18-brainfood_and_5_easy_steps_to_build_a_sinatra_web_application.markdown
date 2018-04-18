@@ -9,7 +9,7 @@ permalink:  brainfood_and_5_easy_steps_to_build_a_sinatra_web_application
 Four months ago I had no idea how the internet worked. This week, I’ve built my first ever Sinatra web application from scratch.
 
 ### The App: BrainFood
-[Source Code](//https://github.com/KimGonzales/brainfood)
+[Source Code](https://github.com/KimGonzales/brainfood)
 
 The benefits of reading include memory improvement, vocabulary expansion, stress reduction, and the reduction of the chances of developing Alzheimers. 
 
